@@ -1,0 +1,14 @@
+body {
+  background-color: lime;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: 900;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
